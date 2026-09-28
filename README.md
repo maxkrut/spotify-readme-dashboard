@@ -20,7 +20,7 @@ Follow the [`step-by-step setup guide`](SETUP.md) for prerequisites, commands an
 
 The dashboard below shows this repository owner's library. In a new copy, the first successful update replaces the inherited example with your own music.
 
-_Last updated 2026-09-23 10:34 UTC._
+_Last updated 2026-09-28 11:45 UTC._
 
 No audio files are included: this repository publishes generated summaries from a private CSV archive.
 
@@ -57,6 +57,27 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 <table width="100%" cellpadding="8" cellspacing="0">
 <tbody>
 <tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2vRVYF2ddWmw57fKcRjlCm">Nothingness by my Side</a></strong> — Grey Shores<br/><small>Dark Waters of Night · 2026 · Liked 2026-09-28</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/3ELHiGWV6hte7m19eJs8WZ">I Want to Die Before You</a></strong> — Genital Shame<br/><small>I Want to Die Before You · 2026 · black metal · Liked 2026-09-28</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/0MhNj8gHOpSvNCP3Zr1GAo">Evolution</a></strong> — OSC<br/><small>Bay Area Dubstep, Vol. 2 · 2010 · Liked 2026-09-26</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1RSFYPyVbfOOsilG55FnFL">Living Fire</a></strong> — Tes La Rok<br/><small>Up in the VIP · 2008 · dubstep · Liked 2026-09-26</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/5M6K421zAbrXbdbFfJNnaw">The Nine</a></strong> — Volkra<br/><small>Sárspell · 2026 · Liked 2026-09-25</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1jaQ4NcOUUMoigYyMmLLtv">solus barque</a></strong> — Hilyard; Lauge<br/><small>a handful of ashes · 2026 · ambient · Liked 2026-09-25</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/7fIKufBCo0xLbza9GbvSGB">Trouble Every Day - 1966 Mono Mix</a></strong> — The Mothers Of Invention; Frank Zappa<br/><small>Freak Out! (60th Anniversary) · 2026 · art rock · Liked 2026-09-25</small></td>
+</tr>
+<tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6RrUexWtOLbuU8K3YxF7oh">Abode of the Perfect Soul</a></strong> — Dvne<br/><small>Voidkind · 2024 · progressive metal · Liked 2026-09-18</small></td>
 </tr>
 <tr>
@@ -64,27 +85,6 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 </tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz">Tetrastructural Minds</a></strong> — Vektor<br/><small>Outer Isolation · 2011 · thrash metal · Liked 2026-09-18</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/5qiALau4qWnEDkzvgNGNxz">Heimsslit</a></strong> — Múr<br/><small>Múr · 2024 · post-metal · Liked 2026-09-18</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/0qArXHeVhAbDg9wqY3ETdD">Condities der Afstraffing</a></strong> — Fluisteraars<br/><small>Jacht der Mysteriën · 2026 · black metal · Liked 2026-09-18</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6XkwhigdKpVId9PjMjf6U0">Perdition&#x27;s Crossing (feat. David Eugene Edwards)</a></strong> — Wayfarer; David Eugene Edwards; 16 Horsepower; Wovenhand<br/><small>Perdition&#x27;s Crossing (feat. David Eugene Edwards) · 2026 · atmospheric black metal · Liked 2026-09-18</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2HTyvFSotgLiSX39LZtNVF">Carved in Stone MMXXVI</a></strong> — Saor<br/><small>Carved in Stone MMXXVI · 2026 · atmospheric black metal · Liked 2026-09-18</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2QkJUQDK3CiU0XzZFIWO54">Escape to Gondolin</a></strong> — Radagast<br/><small>Escape To Gondolin · 2026 · dungeon synth · Liked 2026-09-18</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/26ARKqLHu8wjEsOk3HOTpF">Stranger&#x27;s Land</a></strong> — Sunscorched<br/><small>Blood of the Badlands · 2026 · black metal · Liked 2026-09-15</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/7g9qFFo27ppws6o2cVVBvz">Nousee Musta Lintu</a></strong> — Soulgrind<br/><small>Ad Pulchram Mortem · 2026 · gothic black metal · Liked 2026-09-14</small></td>
 </tr>
 </tbody>
 </table>
@@ -126,24 +126,24 @@ Artist origins across release decades, using MusicBrainz, Wikidata and curated o
 
 Each lead artist appears under one dominant genre: the most frequent primary genre among their recordings in this library. Source-linked artist profiles resolve ties and documented career-wide exceptions. Track totals follow the lead artist's category; release-specific genres remain in the underlying data.
 
-3 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
+6 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
 
 <details>
-<summary><strong>Metal</strong> · 55 genres · 951 track assignments</summary>
+<summary><strong>Metal</strong> · 55 genres · 952 track assignments</summary>
 
 ![Metal genre atlas](assets/atlas/metal.svg)
 
 </details>
 
 <details>
-<summary><strong>Rock / Psych / Prog</strong> · 53 genres · 609 track assignments</summary>
+<summary><strong>Rock / Psych / Prog</strong> · 53 genres · 610 track assignments</summary>
 
 ![Rock / Psych / Prog genre atlas](assets/atlas/rock-psych-prog.svg)
 
 </details>
 
 <details>
-<summary><strong>Electronic / Ambient</strong> · 35 genres · 196 track assignments</summary>
+<summary><strong>Electronic / Ambient</strong> · 35 genres · 197 track assignments</summary>
 
 ![Electronic / Ambient genre atlas](assets/atlas/electronic-ambient.svg)
 
@@ -219,17 +219,24 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 
 </details>
 
+<details>
+<summary><strong>Other</strong> · 1 genre · 1 track assignment</summary>
+
+![Other genre atlas](assets/atlas/other.svg)
+
+</details>
+
 ## Data Quality & Freshness
 
 | Source / coverage | Status |
 | --- | --- |
-| Library export | 2026-09-23 10:34 UTC · current |
-| Spotify top artists | 2026-09-23 10:34 UTC · current |
-| Recently played snapshot | 2026-09-23 10:34 UTC · current |
-| Listening sample | 2026-09-20 17:30 – 2026-09-22 21:19 UTC; 50 plays |
-| Tracks with a usable genre | 2,026 / 2,029 (99.9%) |
+| Library export | 2026-09-28 11:45 UTC · current |
+| Spotify top artists | 2026-09-28 11:45 UTC · current |
+| Recently played snapshot | 2026-09-28 11:45 UTC · current |
+| Listening sample | 2026-09-27 11:56 – 2026-09-28 11:41 UTC; 50 plays |
+| Tracks with a usable genre | 2,030 / 2,036 (99.7%) |
 | Tracks awaiting genre confirmation | 3 |
-| Tracks with a known artist country | 1,962 / 2,029 (96.7%) |
+| Tracks with a known artist country | 1,968 / 2,036 (96.7%) |
 
 Coverage measures completeness, not verification of every genre or country. Build time above is separate from source freshness.
 
