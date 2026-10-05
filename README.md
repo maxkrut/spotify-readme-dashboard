@@ -20,7 +20,7 @@ Follow the [`step-by-step setup guide`](SETUP.md) for prerequisites, commands an
 
 The dashboard below shows this repository owner's library. In a new copy, the first successful update replaces the inherited example with your own music.
 
-_Last updated 2026-09-28 11:45 UTC._
+_Last updated 2026-10-05 12:20 UTC._
 
 No audio files are included: this repository publishes generated summaries from a private CSV archive.
 
@@ -47,7 +47,13 @@ Albums ranked by the number of distinct liked tracks. At least five liked tracks
 
 ## This Week in the Library
 
-Collecting a baseline. Changes will appear after a second observation at least seven days later.
+Changes between observations on 2026-09-28 and 2026-10-05. These are library changes, not listening counts.
+
+**1** new tracks · **1** new liked tracks · **1** new artists · **1** new albums · **0** new countries
+
+Removed from the library: **0** tracks.
+
+Genre share changes: Metal: +0.8 pp; Rock / Psych / Prog: -0.7 pp; Electronic / Ambient: -0.3 pp. Metadata corrections can also change these shares.
 
 ## Latest Liked Tracks
 
@@ -56,6 +62,9 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 <div align="center">
 <table width="100%" cellpadding="8" cellspacing="0">
 <tbody>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6b7ThqpVKB2xSy5ECQYmt8">Umbral Nocturne Part I</a></strong> — Nordicwinter<br/><small>A Hopeless Dawn · 2026 · depressive black metal · Liked 2026-10-02</small></td>
+</tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2vRVYF2ddWmw57fKcRjlCm">Nothingness by my Side</a></strong> — Grey Shores<br/><small>Dark Waters of Night · 2026 · Liked 2026-09-28</small></td>
 </tr>
@@ -82,9 +91,6 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 </tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2nhQeK6SU0RQaWiNSgOWCG">Sunflower</a></strong> — Show Me A Dinosaur<br/><small>Plantgazer · 2020 · blackgaze · Liked 2026-09-18</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz">Tetrastructural Minds</a></strong> — Vektor<br/><small>Outer Isolation · 2011 · thrash metal · Liked 2026-09-18</small></td>
 </tr>
 </tbody>
 </table>
@@ -129,7 +135,7 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 6 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
 
 <details>
-<summary><strong>Metal</strong> · 55 genres · 952 track assignments</summary>
+<summary><strong>Metal</strong> · 55 genres · 953 track assignments</summary>
 
 ![Metal genre atlas](assets/atlas/metal.svg)
 
@@ -230,13 +236,13 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 
 | Source / coverage | Status |
 | --- | --- |
-| Library export | 2026-09-28 11:45 UTC · current |
-| Spotify top artists | 2026-09-28 11:45 UTC · current |
-| Recently played snapshot | 2026-09-28 11:45 UTC · current |
-| Listening sample | 2026-09-27 11:56 – 2026-09-28 11:41 UTC; 50 plays |
-| Tracks with a usable genre | 2,030 / 2,036 (99.7%) |
+| Library export | 2026-10-05 12:20 UTC · current |
+| Spotify top artists | 2026-10-05 12:20 UTC · current |
+| Recently played snapshot | 2026-10-05 12:20 UTC · current |
+| Listening sample | 2026-10-02 17:38 – 2026-10-05 07:09 UTC; 50 plays |
+| Tracks with a usable genre | 2,031 / 2,037 (99.7%) |
 | Tracks awaiting genre confirmation | 3 |
-| Tracks with a known artist country | 1,968 / 2,036 (96.7%) |
+| Tracks with a known artist country | 1,969 / 2,037 (96.7%) |
 
 Coverage measures completeness, not verification of every genre or country. Build time above is separate from source freshness.
 
