@@ -20,7 +20,7 @@ Follow the [`step-by-step setup guide`](SETUP.md) for prerequisites, commands an
 
 The dashboard below shows this repository owner's library. In a new copy, the first successful update replaces the inherited example with your own music.
 
-_Last updated 2026-10-05 12:20 UTC._
+_Last updated 2026-10-12 13:14 UTC._
 
 No audio files are included: this repository publishes generated summaries from a private CSV archive.
 
@@ -47,13 +47,13 @@ Albums ranked by the number of distinct liked tracks. At least five liked tracks
 
 ## This Week in the Library
 
-Changes between observations on 2026-09-28 and 2026-10-05. These are library changes, not listening counts.
+Changes between observations on 2026-10-05 and 2026-10-12. These are library changes, not listening counts.
 
-**1** new tracks · **1** new liked tracks · **1** new artists · **1** new albums · **0** new countries
+**5** new tracks · **5** new liked tracks · **4** new artists · **5** new albums · **0** new countries
 
 Removed from the library: **0** tracks.
 
-Genre share changes: Metal: +0.8 pp; Rock / Psych / Prog: -0.7 pp; Electronic / Ambient: -0.3 pp. Metadata corrections can also change these shares.
+Genre share changes: Rock / Psych / Prog: -0.7 pp; Metal: +0.6 pp; Electronic / Ambient: -0.3 pp. Metadata corrections can also change these shares.
 
 ## Latest Liked Tracks
 
@@ -62,6 +62,21 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 <div align="center">
 <table width="100%" cellpadding="8" cellspacing="0">
 <tbody>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2CMf9FPw8Jgq6qNpQMA3it">The Infinite Shore</a></strong> — The Missing Peace<br/><small>THE VOID (DELUXE) · 2026 · Liked 2026-10-10</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/4BNtZcnr0MqOKdZVeZOOR6">Temple of Silence</a></strong> — Jean-Marc Staehle<br/><small>Light of Inner Peace · 2025 · Liked 2026-10-10</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2THTI3MVf6AnwWkIWYbj4G">Obscure</a></strong> — Ductape<br/><small>Faded Flowers · 2026 · post-punk · Liked 2026-10-08</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/4vI5v1PdTYbQW2zlN9768d">Delusional</a></strong> — Blackwater Holylight<br/><small>Silence/Motion · 2021 · psychedelic rock · Liked 2026-10-08</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/40pr8mzNKxtjmlvKIApqmF">Goddess of Rot</a></strong> — Noctule<br/><small>Extinguish Thy Flame · 2026 · Liked 2026-10-07</small></td>
+</tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6b7ThqpVKB2xSy5ECQYmt8">Umbral Nocturne Part I</a></strong> — Nordicwinter<br/><small>A Hopeless Dawn · 2026 · depressive black metal · Liked 2026-10-02</small></td>
 </tr>
@@ -76,21 +91,6 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 </tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1RSFYPyVbfOOsilG55FnFL">Living Fire</a></strong> — Tes La Rok<br/><small>Up in the VIP · 2008 · dubstep · Liked 2026-09-26</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/5M6K421zAbrXbdbFfJNnaw">The Nine</a></strong> — Volkra<br/><small>Sárspell · 2026 · Liked 2026-09-25</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1jaQ4NcOUUMoigYyMmLLtv">solus barque</a></strong> — Hilyard; Lauge<br/><small>a handful of ashes · 2026 · ambient · Liked 2026-09-25</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/7fIKufBCo0xLbza9GbvSGB">Trouble Every Day - 1966 Mono Mix</a></strong> — The Mothers Of Invention; Frank Zappa<br/><small>Freak Out! (60th Anniversary) · 2026 · art rock · Liked 2026-09-25</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6RrUexWtOLbuU8K3YxF7oh">Abode of the Perfect Soul</a></strong> — Dvne<br/><small>Voidkind · 2024 · progressive metal · Liked 2026-09-18</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2nhQeK6SU0RQaWiNSgOWCG">Sunflower</a></strong> — Show Me A Dinosaur<br/><small>Plantgazer · 2020 · blackgaze · Liked 2026-09-18</small></td>
 </tr>
 </tbody>
 </table>
@@ -132,7 +132,7 @@ Artist origins across release decades, using MusicBrainz, Wikidata and curated o
 
 Each lead artist appears under one dominant genre: the most frequent primary genre among their recordings in this library. Source-linked artist profiles resolve ties and documented career-wide exceptions. Track totals follow the lead artist's category; release-specific genres remain in the underlying data.
 
-6 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
+9 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
 
 <details>
 <summary><strong>Metal</strong> · 55 genres · 953 track assignments</summary>
@@ -142,7 +142,7 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 </details>
 
 <details>
-<summary><strong>Rock / Psych / Prog</strong> · 53 genres · 610 track assignments</summary>
+<summary><strong>Rock / Psych / Prog</strong> · 53 genres · 611 track assignments</summary>
 
 ![Rock / Psych / Prog genre atlas](assets/atlas/rock-psych-prog.svg)
 
@@ -156,7 +156,7 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 </details>
 
 <details>
-<summary><strong>Punk / Hardcore</strong> · 14 genres · 81 track assignments</summary>
+<summary><strong>Punk / Hardcore</strong> · 14 genres · 82 track assignments</summary>
 
 ![Punk / Hardcore genre atlas](assets/atlas/punk-hardcore.svg)
 
@@ -236,13 +236,13 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 
 | Source / coverage | Status |
 | --- | --- |
-| Library export | 2026-10-05 12:20 UTC · current |
-| Spotify top artists | 2026-10-05 12:20 UTC · current |
-| Recently played snapshot | 2026-10-05 12:20 UTC · current |
-| Listening sample | 2026-10-02 17:38 – 2026-10-05 07:09 UTC; 50 plays |
-| Tracks with a usable genre | 2,031 / 2,037 (99.7%) |
+| Library export | 2026-10-12 13:13 UTC · current |
+| Spotify top artists | 2026-10-12 13:13 UTC · current |
+| Recently played snapshot | 2026-10-12 13:13 UTC · current |
+| Listening sample | 2026-10-09 12:37 – 2026-10-12 12:53 UTC; 50 plays |
+| Tracks with a usable genre | 2,033 / 2,042 (99.6%) |
 | Tracks awaiting genre confirmation | 3 |
-| Tracks with a known artist country | 1,969 / 2,037 (96.7%) |
+| Tracks with a known artist country | 1,974 / 2,042 (96.7%) |
 
 Coverage measures completeness, not verification of every genre or country. Build time above is separate from source freshness.
 

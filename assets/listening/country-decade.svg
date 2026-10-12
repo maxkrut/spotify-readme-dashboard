@@ -26,8 +26,8 @@
 <text x="867.9" y="141.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#102027" text-anchor="middle">108</text>
 <rect x="933.5" y="124.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.92"/>
 <text x="995.1" y="141.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#102027" text-anchor="middle">195</text>
-<rect x="1060.8" y="124.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.74"/>
-<text x="1122.4" y="141.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#102027" text-anchor="middle">154</text>
+<rect x="1060.8" y="124.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.75"/>
+<text x="1122.4" y="141.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#102027" text-anchor="middle">156</text>
 <text x="156.0" y="172.0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#102027" text-anchor="end">United Kingdom</text>
 <rect x="170.0" y="154.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.08"/>
 <rect x="297.2" y="154.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.10"/>
@@ -43,7 +43,7 @@
 <rect x="933.5" y="154.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.36"/>
 <text x="995.1" y="171.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#102027" text-anchor="middle">64</text>
 <rect x="1060.8" y="154.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.38"/>
-<text x="1122.4" y="171.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#102027" text-anchor="middle">69</text>
+<text x="1122.4" y="171.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#102027" text-anchor="middle">70</text>
 <text x="156.0" y="202.0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#102027" text-anchor="end">Norway</text>
 <rect x="170.0" y="184.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.08"/>
 <rect x="297.2" y="184.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.08"/>
@@ -143,7 +143,7 @@
 <rect x="933.5" y="364.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.16"/>
 <text x="995.1" y="381.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#102027" text-anchor="middle">19</text>
 <rect x="1060.8" y="364.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.17"/>
-<text x="1122.4" y="381.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#102027" text-anchor="middle">20</text>
+<text x="1122.4" y="381.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#102027" text-anchor="middle">21</text>
 <text x="156.0" y="412.0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#102027" text-anchor="end">Denmark</text>
 <rect x="170.0" y="394.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.08"/>
 <rect x="297.2" y="394.0" width="123.2" height="24" fill="#557e64" fill-opacity="0.08"/>
