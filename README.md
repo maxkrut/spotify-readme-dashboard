@@ -20,7 +20,7 @@ Follow the [`step-by-step setup guide`](SETUP.md) for prerequisites, commands an
 
 The dashboard below shows this repository owner's library. In a new copy, the first successful update replaces the inherited example with your own music.
 
-_Last updated 2026-10-12 13:14 UTC._
+_Last updated 2026-10-19 10:50 UTC._
 
 No audio files are included: this repository publishes generated summaries from a private CSV archive.
 
@@ -47,13 +47,13 @@ Albums ranked by the number of distinct liked tracks. At least five liked tracks
 
 ## This Week in the Library
 
-Changes between observations on 2026-10-05 and 2026-10-12. These are library changes, not listening counts.
+Changes between observations on 2026-10-05 and 2026-10-19. These are library changes, not listening counts.
 
-**5** new tracks · **5** new liked tracks · **4** new artists · **5** new albums · **0** new countries
+**9** new tracks · **9** new liked tracks · **8** new artists · **9** new albums · **0** new countries
 
 Removed from the library: **0** tracks.
 
-Genre share changes: Rock / Psych / Prog: -0.7 pp; Metal: +0.6 pp; Electronic / Ambient: -0.3 pp. Metadata corrections can also change these shares.
+Genre share changes: Rock / Psych / Prog: -0.7 pp; Metal: +0.6 pp; Electronic / Ambient: -0.2 pp. Metadata corrections can also change these shares.
 
 ## Latest Liked Tracks
 
@@ -62,6 +62,18 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 <div align="center">
 <table width="100%" cellpadding="8" cellspacing="0">
 <tbody>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1GpulStHZZeQKMqMUzNlIk">A Thousand Empty Rooms</a></strong> — Atrium Carceri; Cities Last Broadcast; God Body Disconnect<br/><small>Miles to Midnight · 2018 · dark ambient · Liked 2026-10-16</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/0FKPcsf5gXEuiKb6n5NKgA">The Forgotten Realms</a></strong> — Prowl<br/><small>The Forgotten Realms · 2022 · Liked 2026-10-16</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/57Z3TwpinLp1IRmK0GCT5v">Piros kocsi, fekete éj</a></strong> — Thy Catafalque<br/><small>XII: A gyönyörű álmok ezután jönnek · 2024 · avant-garde metal · Liked 2026-10-16</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/0QA0mRlMkoHJ1vtI3zGqDa">Ghosts of the Midwinter Fires - Remixed &amp; Remastered</a></strong> — Agalloch<br/><small>Ghosts of the Midwinter Fires (Remixed &amp; Remastered) · 2026 · atmospheric black metal · Liked 2026-10-15</small></td>
+</tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2CMf9FPw8Jgq6qNpQMA3it">The Infinite Shore</a></strong> — The Missing Peace<br/><small>THE VOID (DELUXE) · 2026 · Liked 2026-10-10</small></td>
 </tr>
@@ -79,18 +91,6 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 </tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6b7ThqpVKB2xSy5ECQYmt8">Umbral Nocturne Part I</a></strong> — Nordicwinter<br/><small>A Hopeless Dawn · 2026 · depressive black metal · Liked 2026-10-02</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2vRVYF2ddWmw57fKcRjlCm">Nothingness by my Side</a></strong> — Grey Shores<br/><small>Dark Waters of Night · 2026 · Liked 2026-09-28</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/3ELHiGWV6hte7m19eJs8WZ">I Want to Die Before You</a></strong> — Genital Shame<br/><small>I Want to Die Before You · 2026 · black metal · Liked 2026-09-28</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/0MhNj8gHOpSvNCP3Zr1GAo">Evolution</a></strong> — OSC<br/><small>Bay Area Dubstep, Vol. 2 · 2010 · Liked 2026-09-26</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1RSFYPyVbfOOsilG55FnFL">Living Fire</a></strong> — Tes La Rok<br/><small>Up in the VIP · 2008 · dubstep · Liked 2026-09-26</small></td>
 </tr>
 </tbody>
 </table>
@@ -132,10 +132,10 @@ Artist origins across release decades, using MusicBrainz, Wikidata and curated o
 
 Each lead artist appears under one dominant genre: the most frequent primary genre among their recordings in this library. Source-linked artist profiles resolve ties and documented career-wide exceptions. Track totals follow the lead artist's category; release-specific genres remain in the underlying data.
 
-9 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
+10 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
 
 <details>
-<summary><strong>Metal</strong> · 55 genres · 953 track assignments</summary>
+<summary><strong>Metal</strong> · 55 genres · 955 track assignments</summary>
 
 ![Metal genre atlas](assets/atlas/metal.svg)
 
@@ -149,7 +149,7 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 </details>
 
 <details>
-<summary><strong>Electronic / Ambient</strong> · 35 genres · 197 track assignments</summary>
+<summary><strong>Electronic / Ambient</strong> · 35 genres · 198 track assignments</summary>
 
 ![Electronic / Ambient genre atlas](assets/atlas/electronic-ambient.svg)
 
@@ -236,13 +236,13 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 
 | Source / coverage | Status |
 | --- | --- |
-| Library export | 2026-10-12 13:13 UTC · current |
-| Spotify top artists | 2026-10-12 13:13 UTC · current |
-| Recently played snapshot | 2026-10-12 13:13 UTC · current |
-| Listening sample | 2026-10-09 12:37 – 2026-10-12 12:53 UTC; 50 plays |
-| Tracks with a usable genre | 2,033 / 2,042 (99.6%) |
+| Library export | 2026-10-19 10:50 UTC · current |
+| Spotify top artists | 2026-10-19 10:50 UTC · current |
+| Recently played snapshot | 2026-10-19 10:50 UTC · current |
+| Listening sample | 2026-10-12 16:15 – 2026-10-16 14:58 UTC; 50 plays |
+| Tracks with a usable genre | 2,036 / 2,046 (99.5%) |
 | Tracks awaiting genre confirmation | 3 |
-| Tracks with a known artist country | 1,974 / 2,042 (96.7%) |
+| Tracks with a known artist country | 1,977 / 2,046 (96.6%) |
 
 Coverage measures completeness, not verification of every genre or country. Build time above is separate from source freshness.
 
