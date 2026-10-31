@@ -11,6 +11,8 @@ Create your own Spotify music dashboard in a GitHub README. A Python template wi
 
 For developers who love music: publish your library, explore artist genres and countries, and follow changes in your taste. Python generates the charts; GitHub Actions refreshes them weekly. No separate web server is needed.
 
+Developers, designers and coding agents are welcome to improve the analytics, visualizations and setup experience. See the [`contributing guide`](CONTRIBUTING.md) for ideas and local checks.
+
 ## Quick start
 
 1. Choose **Use this template → Create a new repository** and clone your copy.
