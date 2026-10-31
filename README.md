@@ -27,7 +27,7 @@ Follow the [`step-by-step setup guide`](SETUP.md) for prerequisites, commands an
 
 The dashboard below shows this repository owner's library. In a new copy, the first successful update replaces the inherited example with your own music.
 
-_Last updated 2026-10-31 10:52 UTC._
+_Last updated 2026-10-31 11:01 UTC._
 
 No audio files are included: this repository publishes generated summaries from a private CSV archive.
 
@@ -243,9 +243,9 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 
 | Source / coverage | Status |
 | --- | --- |
-| Library export | 2026-10-31 10:51 UTC · current |
-| Spotify top artists | 2026-10-31 10:51 UTC · current |
-| Recently played snapshot | 2026-10-31 10:51 UTC · current |
+| Library export | 2026-10-31 11:01 UTC · current |
+| Spotify top artists | 2026-10-31 11:01 UTC · current |
+| Recently played snapshot | 2026-10-31 11:01 UTC · current |
 | Listening sample | 2026-10-27 13:14 – 2026-10-31 09:47 UTC; 50 plays |
 | Tracks with a usable genre | 2,045 / 2,057 (99.4%) |
 | Tracks awaiting genre confirmation | 3 |
