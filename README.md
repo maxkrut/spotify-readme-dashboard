@@ -25,7 +25,7 @@ Follow the [`step-by-step setup guide`](SETUP.md) for prerequisites, commands an
 
 The dashboard below shows this repository owner's library. In a new copy, the first successful update replaces the inherited example with your own music.
 
-_Last updated 2026-10-26 11:12 UTC._
+_Last updated 2026-10-31 10:52 UTC._
 
 No audio files are included: this repository publishes generated summaries from a private CSV archive.
 
@@ -52,13 +52,13 @@ Albums ranked by the number of distinct liked tracks. At least five liked tracks
 
 ## This Week in the Library
 
-Changes between observations on 2026-10-19 and 2026-10-26. These are library changes, not listening counts.
+Changes between observations on 2026-10-19 and 2026-10-31. These are library changes, not listening counts.
 
-**5** new tracks · **5** new liked tracks · **1** new artists · **2** new albums · **0** new countries
+**11** new tracks · **11** new liked tracks · **5** new artists · **8** new albums · **0** new countries
 
 Removed from the library: **0** tracks.
 
-Genre share changes: Metal: +0.7 pp; Rock / Psych / Prog: -0.6 pp; Electronic / Ambient: -0.2 pp. Metadata corrections can also change these shares.
+Genre share changes: Rock / Psych / Prog: -0.7 pp; Metal: +0.7 pp; Electronic / Ambient: -0.2 pp. Metadata corrections can also change these shares.
 
 ## Latest Liked Tracks
 
@@ -67,6 +67,24 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 <div align="center">
 <table width="100%" cellpadding="8" cellspacing="0">
 <tbody>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1FltTqmmqzR9e53xDkNGJ4">Mountain</a></strong> — Enslaved<br/><small>Mið · 2026 · black metal · Liked 2026-10-30</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6uwwXjKKEBy6B1LcCiqp6e">Never Leave</a></strong> — Diamond Rain<br/><small>Chapter One · 2026 · Liked 2026-10-30</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2a97ueIkAqqmzAnMRh7v35">The Awakening</a></strong> — HOSTILIA<br/><small>The Curse of Khamun · 2026 · thrash metal · Liked 2026-10-30</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/0X2UI4M1ewu5lvMC0WJjCd">Medieval Noir</a></strong> — Erang<br/><small>MEDIEVAL NOIR · 2026 · dungeon synth · Liked 2026-10-30</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6e6RTpN1JC79UsQfBjSdYy">Alberto Balsam 7</a></strong> — Magic Man<br/><small>Alberto Balsam 7 · 2026 · ambient · Liked 2026-10-30</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/39C0Sv091suqabI3GEpKoP">Voice of the Mountain</a></strong> — Jason Shook; Guild of Lore<br/><small>Winterstead · 2018 · Liked 2026-10-27</small></td>
+</tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/72m4wHmgRYoxvg7GqAlFQh">Any Way The Wind Blows - Original Mothers Rehearsal 1966</a></strong> — The Mothers Of Invention; Frank Zappa<br/><small>Freak Out! (60th Anniversary) · 2026 · art rock · Liked 2026-10-23</small></td>
 </tr>
@@ -78,24 +96,6 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 </tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/5ZOt8KwM6BFtfoFqntMHFA">Disintegrate</a></strong> — Extol<br/><small>Disintegrate · 2026 · alternative rock · Liked 2026-10-22</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1LpO8RNPw4tuNhwzw36IKz">Grondeloos Donkere Bossen</a></strong> — Fluisteraars<br/><small>Jacht der Mysteriën · 2026 · black metal · Liked 2026-10-22</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1GpulStHZZeQKMqMUzNlIk">A Thousand Empty Rooms</a></strong> — Atrium Carceri; Cities Last Broadcast; God Body Disconnect<br/><small>Miles to Midnight · 2018 · dark ambient · Liked 2026-10-16</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/0FKPcsf5gXEuiKb6n5NKgA">The Forgotten Realms</a></strong> — Prowl<br/><small>The Forgotten Realms · 2022 · Liked 2026-10-16</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/57Z3TwpinLp1IRmK0GCT5v">Piros kocsi, fekete éj</a></strong> — Thy Catafalque<br/><small>XII: A gyönyörű álmok ezután jönnek · 2024 · avant-garde metal · Liked 2026-10-16</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/0QA0mRlMkoHJ1vtI3zGqDa">Ghosts of the Midwinter Fires - Remixed &amp; Remastered</a></strong> — Agalloch<br/><small>Ghosts of the Midwinter Fires (Remixed &amp; Remastered) · 2026 · atmospheric black metal · Liked 2026-10-15</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2CMf9FPw8Jgq6qNpQMA3it">The Infinite Shore</a></strong> — The Missing Peace<br/><small>THE VOID (DELUXE) · 2026 · Liked 2026-10-10</small></td>
 </tr>
 </tbody>
 </table>
@@ -137,10 +137,10 @@ Artist origins across release decades, using MusicBrainz, Wikidata and curated o
 
 Each lead artist appears under one dominant genre: the most frequent primary genre among their recordings in this library. Source-linked artist profiles resolve ties and documented career-wide exceptions. Track totals follow the lead artist's category; release-specific genres remain in the underlying data.
 
-10 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
+12 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
 
 <details>
-<summary><strong>Metal</strong> · 55 genres · 957 track assignments</summary>
+<summary><strong>Metal</strong> · 55 genres · 959 track assignments</summary>
 
 ![Metal genre atlas](assets/atlas/metal.svg)
 
@@ -154,7 +154,7 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 </details>
 
 <details>
-<summary><strong>Electronic / Ambient</strong> · 35 genres · 199 track assignments</summary>
+<summary><strong>Electronic / Ambient</strong> · 35 genres · 201 track assignments</summary>
 
 ![Electronic / Ambient genre atlas](assets/atlas/electronic-ambient.svg)
 
@@ -241,13 +241,13 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 
 | Source / coverage | Status |
 | --- | --- |
-| Library export | 2026-10-26 11:11 UTC · current |
-| Spotify top artists | 2026-10-26 11:11 UTC · current |
-| Recently played snapshot | 2026-10-26 11:11 UTC · current |
-| Listening sample | 2026-10-22 15:08 – 2026-10-25 17:54 UTC; 50 plays |
-| Tracks with a usable genre | 2,041 / 2,051 (99.5%) |
+| Library export | 2026-10-31 10:51 UTC · current |
+| Spotify top artists | 2026-10-31 10:51 UTC · current |
+| Recently played snapshot | 2026-10-31 10:51 UTC · current |
+| Listening sample | 2026-10-27 13:14 – 2026-10-31 09:47 UTC; 50 plays |
+| Tracks with a usable genre | 2,045 / 2,057 (99.4%) |
 | Tracks awaiting genre confirmation | 3 |
-| Tracks with a known artist country | 1,982 / 2,051 (96.6%) |
+| Tracks with a known artist country | 1,987 / 2,057 (96.6%) |
 
 Coverage measures completeness, not verification of every genre or country. Build time above is separate from source freshness.
 
