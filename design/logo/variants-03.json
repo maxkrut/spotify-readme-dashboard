@@ -1,0 +1,134 @@
+{
+  "font": {
+    "family": "Geologica",
+    "weight": 600,
+    "axes": {
+      "wght": 600,
+      "CRSV": 0,
+      "SHRP": 0,
+      "slnt": 0
+    }
+  },
+  "height": 48,
+  "board_label": "ИЗБРАННЫЕ / НОВЫЕ ЦВЕТА",
+  "themes": {
+    "light": "#FFFFFF",
+    "dark": "#0D1117"
+  },
+  "variants": [
+    {
+      "id": "02b",
+      "display_id": "02B",
+      "layout": "spotify_hero",
+      "name": "Тёмно-синий и золото",
+      "note": "Крупное spotify · двухстрочная подпись справа",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#966500",
+          "dashboard": "#192944"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#EAC86E",
+          "dashboard": "#E6EDF8"
+        }
+      }
+    },
+    {
+      "id": "04b",
+      "display_id": "04B",
+      "layout": "two_lines",
+      "name": "Синий и сливовый",
+      "note": "Две строки · глубокий сливовый в основании",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#3060C4",
+          "dashboard": "#2B2044"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#9AB9FF",
+          "dashboard": "#EEE3FF"
+        }
+      }
+    },
+    {
+      "id": "06b",
+      "display_id": "06B",
+      "layout": "staircase",
+      "name": "Коралл и ультрамарин",
+      "note": "Три ступени · тёплое начало и холодный финал",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#C24135",
+          "dashboard": "#3454B4"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#FF9E8F",
+          "dashboard": "#A8B9FF"
+        }
+      }
+    },
+    {
+      "id": "07b",
+      "display_id": "07B",
+      "layout": "spotify_above",
+      "name": "Серый и янтарь",
+      "note": "Крупное spotify · компактная подпись снизу",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#555165",
+          "dashboard": "#A85314"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#D0C7DB",
+          "dashboard": "#F6BF7A"
+        }
+      }
+    },
+    {
+      "id": "10b",
+      "display_id": "10B",
+      "layout": "equal_width_stack",
+      "name": "Васильковый и лаванда",
+      "note": "Три строки одной ширины · холодная палитра",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#436FC6",
+          "dashboard": "#6B4B8C"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#8BAFFF",
+          "dashboard": "#C8ACE9"
+        }
+      }
+    },
+    {
+      "id": "12b",
+      "display_id": "12B",
+      "layout": "repository_name",
+      "name": "Коричневый и латунь",
+      "note": "Имя репозитория · тёплая палитра",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#4A3D2F",
+          "dashboard": "#776325"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#F3E9D6",
+          "dashboard": "#DCC574"
+        }
+      }
+    }
+  ]
+}

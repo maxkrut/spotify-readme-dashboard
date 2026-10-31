@@ -1,0 +1,127 @@
+{
+  "font": {
+    "family": "Geologica",
+    "weight": 600,
+    "axes": {
+      "wght": 600,
+      "CRSV": 0,
+      "SHRP": 0,
+      "slnt": 0
+    }
+  },
+  "height": 48,
+  "themes": {
+    "light": "#FFFFFF",
+    "dark": "#0D1117"
+  },
+  "variants": [
+    {
+      "id": "07",
+      "layout": "spotify_above",
+      "name": "Подпись снизу",
+      "note": "Крупное spotify · спокойная подпись в одну строку",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#39463D",
+          "dashboard": "#39463D"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#DCE5DE",
+          "dashboard": "#DCE5DE"
+        }
+      }
+    },
+    {
+      "id": "08",
+      "layout": "readme_caps_inline",
+      "name": "Акцент в строке",
+      "note": "Большое README · малые слова на общей базовой линии",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#273D2C",
+          "dashboard": "#B54708"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#E5F4DD",
+          "dashboard": "#FDBA74"
+        }
+      }
+    },
+    {
+      "id": "09",
+      "layout": "readme_caps_above",
+      "name": "README над строкой",
+      "note": "Широкие прописные · два цветных акцента под словом",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#66366E",
+          "dashboard": "#B54708"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#E3B0ED",
+          "dashboard": "#FDBA74"
+        }
+      }
+    },
+    {
+      "id": "10",
+      "layout": "equal_width_stack",
+      "name": "Вертикальный блок",
+      "note": "Три строки одной ширины · разрядка · графит и зелёный",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#15803D",
+          "dashboard": "#526157"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#4ADE80",
+          "dashboard": "#B6C5BA"
+        }
+      }
+    },
+    {
+      "id": "11",
+      "layout": "offset_lines",
+      "name": "Смещённые строки",
+      "note": "Два крупных слова по диагонали · малая подпись справа",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#363774",
+          "dashboard": "#5E6373"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#C4C5FF",
+          "dashboard": "#B4BBCE"
+        }
+      }
+    },
+    {
+      "id": "12",
+      "layout": "repository_name",
+      "name": "Имя репозитория",
+      "note": "spotify/ сверху · readme-dashboard как единое название",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#29333E",
+          "dashboard": "#526157"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#F0F3F6",
+          "dashboard": "#B8C9BC"
+        }
+      }
+    }
+  ]
+}

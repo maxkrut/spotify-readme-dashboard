@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="436.12233" height="48" viewBox="0 0 436.12233 48" role="img" aria-label="Spotify README Dashboard / 18 / dark">
+<title>Spotify README Dashboard / 18 / dark</title>
+<style>@font-face{font-family:Geologica;src:url("../fonts/Geologica-variable.ttf");font-weight:100 900}</style>
+<g transform="scale(1.36054) translate(-0 -0)">
+<text fill="#CFD3FF" transform="translate(-1.425 34.56) rotate(0)" font-family="Geologica" font-size="48" font-weight="600" letter-spacing="-1.92" style="font-variant-ligatures:none">dash</text>
+<text fill="#1ED760" transform="translate(118.48202 13.38687) rotate(0)" font-family="Geologica" font-size="17" font-weight="600" letter-spacing="0.255" style="font-variant-ligatures:none">spotify</text>
+<text fill="#FFC18B" transform="translate(115.89406 34.43062) rotate(0)" font-family="Geologica" font-size="17" font-weight="600" letter-spacing="0.255" style="font-variant-ligatures:none">readme</text>
+<text fill="#CFD3FF" transform="translate(190.82692 34.56) rotate(0)" font-family="Geologica" font-size="48" font-weight="600" letter-spacing="-1.92" style="font-variant-ligatures:none">board</text>
+</g>
+</svg>

@@ -1,4 +1,9 @@
-# Spotify README Dashboard · Template
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/branding/spotify-readme-dashboard-dark.svg">
+    <img src="assets/branding/spotify-readme-dashboard-light.svg" alt="Spotify README Dashboard · Template" width="260">
+  </picture>
+</h1>
 
 Create your own Spotify music dashboard in a GitHub README. A Python template with automatic updates, genre maps, favorite albums and private source data.
 

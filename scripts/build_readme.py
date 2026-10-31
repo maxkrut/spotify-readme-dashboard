@@ -33,6 +33,12 @@ EXPORT_METADATA_CACHE = ROOT / ".cache" / "spotify-export.json"
 HISTORY_CACHE = ROOT / ".cache" / "dashboard-history.json"
 COUNTRY_OVERRIDES_CSV = ROOT / "data" / "country_overrides.csv"
 README_TITLE = "Spotify README Dashboard · Template"
+README_HEADER = f'''<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/branding/spotify-readme-dashboard-dark.svg">
+    <img src="assets/branding/spotify-readme-dashboard-light.svg" alt="{README_TITLE}" width="260">
+  </picture>
+</h1>'''
 REPO_DESCRIPTION = "Create your own Spotify music dashboard in a GitHub README. A Python template with automatic updates, genre maps, favorite albums and private source data."
 
 
@@ -2152,6 +2158,14 @@ def build_dashboard(
     readme: Path,
 ) -> str:
     readme_dir = readme.parent
+    # Keep custom --output builds self-contained, just like their generated charts.
+    branding_source = ASSETS_DIR / "branding"
+    branding_target = readme_dir / "assets" / "branding"
+    if branding_source.resolve() != branding_target.resolve():
+        branding_target.mkdir(parents=True, exist_ok=True)
+        for theme in ("light", "dark"):
+            name = f"spotify-readme-dashboard-{theme}.svg"
+            shutil.copyfile(branding_source / name, branding_target / name)
     atlas_dir = readme_dir / "assets" / "atlas"
     overview_path = readme_dir / "assets" / "overview.svg"
     aggregates_path = readme_dir / "assets" / "aggregates.svg"
@@ -2182,7 +2196,7 @@ def build_dashboard(
     generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     lines: list[str] = [
-        f"# {README_TITLE}",
+        README_HEADER,
         "",
         REPO_DESCRIPTION,
         "",

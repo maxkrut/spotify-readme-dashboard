@@ -1,0 +1,127 @@
+{
+  "font": {
+    "family": "Geologica",
+    "weight": 600,
+    "axes": {
+      "wght": 600,
+      "CRSV": 0,
+      "SHRP": 0,
+      "slnt": 0
+    }
+  },
+  "height": 48,
+  "themes": {
+    "light": "#FFFFFF",
+    "dark": "#0D1117"
+  },
+  "variants": [
+    {
+      "id": "01",
+      "layout": "inline",
+      "name": "Единая строка",
+      "note": "Равный кегль · плотный ритм · зелёный акцент",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#18241F",
+          "dashboard": "#526157"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#F0F6F2",
+          "dashboard": "#B2C0B6"
+        }
+      }
+    },
+    {
+      "id": "02",
+      "layout": "spotify_hero",
+      "name": "Главное — spotify",
+      "note": "Крупное spotify · двухстрочная подпись справа",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#657268",
+          "dashboard": "#1E2922"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#A9B8AD",
+          "dashboard": "#F0F6F2"
+        }
+      }
+    },
+    {
+      "id": "03",
+      "layout": "readme_hero",
+      "name": "Главное — readme",
+      "note": "Фиолетовый центр · spotify сверху · dashboard у строки",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#6D28D9",
+          "dashboard": "#414754"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#C4A0FF",
+          "dashboard": "#CBD0DC"
+        }
+      }
+    },
+    {
+      "id": "04",
+      "layout": "two_lines",
+      "name": "Две строки",
+      "note": "Тёплый акцент на readme · центрированная композиция",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#C2410C",
+          "dashboard": "#27251F"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#FFAB70",
+          "dashboard": "#FFF1DF"
+        }
+      }
+    },
+    {
+      "id": "05",
+      "layout": "dashboard_hero",
+      "name": "Главное — dashboard",
+      "note": "Широкая основа · малые слова слева · индиго и зелёный",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#6552AA",
+          "dashboard": "#283A70"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#BCACF5",
+          "dashboard": "#DCE5FF"
+        }
+      }
+    },
+    {
+      "id": "06",
+      "layout": "staircase",
+      "name": "Ступени",
+      "note": "Три строки · смещение вправо · сливовый и оранжевый",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#763773",
+          "dashboard": "#B54708"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#E8ADE3",
+          "dashboard": "#FFB86B"
+        }
+      }
+    }
+  ]
+}

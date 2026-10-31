@@ -1,0 +1,98 @@
+SPOTIFY README DASHBOARD — LOGO PROPOSALS
+Status: variant 02B is selected and integrated into README.md and scripts/build_readme.py.
+The eighteen layouts plus six alternative palettes remain available on one comparison page.
+selected.json records the choice and the final 260 x 48 canvas.
+selected-preview.png shows the implemented header in local light/dark browser previews.
+
+comparison-all.html — self-contained page with all 24 variants, 100% and fit-to-window modes.
+comparison-all.svg — combined vector sheet, 1420 x 2888 logical pixels.
+comparison-all@2x.png — combined image, 2840 x 5776 physical pixels.
+01–18 identify layouts; 02B, 04B, 06B, 07B, 10B and 12B identify alternative palettes.
+All Spotify lettering now uses exactly #1ED760 in both themes, including split words,
+curved lettering and the full word in the enlarged-initials layout.
+The four smaller comparison sheets and all individual exports have also been refreshed.
+
+comparison@2x.png — comparison image, light theme left / dark theme right.
+comparison.svg — the same comparison in vector format; logical size 1420 x 992.
+comparison-02@2x.png and comparison-02.svg — second set, variants 07–12.
+comparison-03@2x.png and comparison-03.svg — selected 02, 04, 06, 07, 10 and 12
+in new colors. Export IDs end in b (02b, 04b, 06b, 07b, 10b, 12b) to preserve originals.
+comparison-04@2x.png and comparison-04.svg — new layouts 13–18: rotated word,
+fraction, split-word modules, curved lettering, enlarged initials and an inset.
+Every logo on the board has exactly the same 48 px height at 1:1 logical scale.
+The PNG is rendered at 2x; viewing it at 1420 x 992 gives the intended display size.
+All logos are centered in equal-width columns, without stretching or width matching.
+
+exports/ — 48 standalone outlined SVGs and 48 transparent PNGs at 4x.
+SVGs use paths and require no installed font, remote resources or background fill.
+All SVGs have an intrinsic height of 48 and a proportional viewBox.
+PNGs are 192 physical pixels high, intended for display at 48 CSS pixels.
+editable/ — 48 text-based SVGs with the original word sizes and tracking.
+Install the supplied font when editing in a desktop vector editor.
+variants.json — editable names, palettes and font-axis settings.
+variants-02.json — editable names, palettes and font-axis settings for variants 07–12.
+variants-03.json — the six selected layouts with new palettes.
+variants-04.json — new layouts 13–18, with their theme-specific palettes.
+variants-all.json — generated, ordered combination of all four configuration files.
+build.py — source layout rules, HarfBuzz kerning, outline generation and board layout.
+render.cjs — source for rasterizing with Sharp from an external runtime.
+dimensions.json — exact intrinsic dimensions of each variant.
+dimensions-02.json — exact intrinsic dimensions for variants 07–12.
+dimensions-03.json and dimensions-04.json — dimensions for the two latest sheets.
+dimensions-all.json — dimensions for the complete comparison page.
+
+BUILD
+Run build.py with Python in an external environment containing fonttools and
+uharfbuzz. Then run render.cjs with Node and an externally available Sharp package
+(NODE_PATH can point to the existing runtime's node_modules).
+No package installation, venv or node_modules is needed inside this repository.
+For the second set use: build.py --set 2, followed by: node render.cjs 2.
+Use set 3 for the recolored selection and set 4 for the new layouts.
+Use build.py --set all, followed by node render.cjs all, to generate the complete page.
+
+TYPOGRAPHY
+All lettering uses Geologica 600. Axes: wght=600, CRSV=0, SHRP=0, slnt=0.
+Kerning is retained; standard ligatures are disabled in both editable and outlined
+versions. No synthetic bold, horizontal stretching or strokes around lettering.
+Variant 13 rotates a complete word; variant 16 places individually rotated editable
+letters along two arcs. Variant 14 includes a typographic fraction rule.
+fonts/Geologica-variable.ttf is the original upstream font, not a dependency tree.
+fonts/OFL.txt contains the SIL Open Font License and copyright attribution.
+Font source:
+https://github.com/google/fonts/tree/main/ofl/geologica
+Upstream font Git blob: 9e7771e32575873bba48b16b6ef1696b63087a2a
+
+REFERENCE
+Spotify Green was verified against the official palette SVG on 2026-10-31:
+https://developer-assets.spotifycdn.com/images/guidelines/design/colors.svg
+Source page: https://developer.spotify.com/documentation/design#using-our-colors
+The exact SVG fill is #1ED760 (RGB 30, 215, 96); it is kept identical in both themes.
+
+https://github.com/maxkrut/ynodus/blob/main/README.md
+Only Geologica 600, the 48 px display height and centered README presentation
+are carried over. Layouts and theme-specific palettes were created for this project.
+Reference PNGs and unrelated reference assets are not included.
+
+README INTEGRATION
+Selected variant: 02B (Spotify Green, gold README, navy/light dashboard).
+Final assets: assets/branding/spotify-readme-dashboard-light.svg and -dark.svg.
+They use a 260 x 48 viewBox with equal 0.11665 px horizontal padding; letter contours
+and proportions match the approved proposal. Both backgrounds remain transparent.
+Running build.py --set 3 or --set all also updates these final assets from selected.json.
+The dashboard generator consumes the final SVGs without any font or design dependencies.
+Custom --output builds copy both logo assets next to their generated dashboard charts.
+
+The centered h1 uses picture/source for prefers-color-scheme: dark, with a light fallback.
+The img has width=260 and no fixed height attribute. Its SVG supplies the 260:48 ratio,
+so the GitHub max-width rule can shrink both dimensions proportionally on narrow screens.
+scripts/validate_dashboard.py checks both HTML img and source/srcset references as well
+as Markdown image references, including the dark logo asset.
+
+VALIDATION
+70 existing pytest tests passed. The offline example built without private credentials.
+Local Chromium preview: light and dark sources switched correctly at DPR 2.
+At viewport widths 1440 and 390 the logo measured 260 x 48 CSS px.
+At viewport width 240 it measured 208 x 38.390625 CSS px, centered without overflow.
+All six local screenshots were inspected. No clipping, distortion or missing glyphs.
+Scope: the exact local README heading and copied SVG assets; GitHub-hosted rendering
+has not been published or checked. Preview CSS approximates GitHub's Markdown layout.

@@ -1,0 +1,8 @@
+{
+  "variant": "02b",
+  "set": 3,
+  "width": 260,
+  "height": 48,
+  "basename": "spotify-readme-dashboard",
+  "output_directory": "../../assets/branding"
+}

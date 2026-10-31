@@ -4,11 +4,33 @@ from __future__ import annotations
 import re
 import sys
 import xml.etree.ElementTree as ET
+from html.parser import HTMLParser
 from pathlib import Path
 
 
+class HTMLImageReferences(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self.images: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attributes = dict(attrs)
+        if tag == "img" and attributes.get("src"):
+            self.images.append(attributes["src"])
+        if tag in {"img", "source"} and attributes.get("srcset"):
+            self.images.extend(
+                candidate.strip().split()[0]
+                for candidate in attributes["srcset"].split(",")
+                if candidate.strip()
+            )
+
+
 def validate(path: Path) -> int:
-    images = re.findall(r"!\[[^\]]*\]\(([^)]+)\)", path.read_text(encoding="utf-8"))
+    content = path.read_text(encoding="utf-8")
+    images = re.findall(r"!\[[^\]]*\]\(([^)]+)\)", content)
+    html_images = HTMLImageReferences()
+    html_images.feed(content)
+    images.extend(html_images.images)
     for reference in images:
         if "://" in reference:
             continue

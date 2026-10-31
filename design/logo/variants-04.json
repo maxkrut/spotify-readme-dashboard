@@ -1,0 +1,132 @@
+{
+  "font": {
+    "family": "Geologica",
+    "weight": 600,
+    "axes": {
+      "wght": 600,
+      "CRSV": 0,
+      "SHRP": 0,
+      "slnt": 0
+    }
+  },
+  "height": 48,
+  "board_label": "НОВЫЕ КОМПОНОВКИ / 13–18",
+  "themes": {
+    "light": "#FFFFFF",
+    "dark": "#0D1117"
+  },
+  "variants": [
+    {
+      "id": "13",
+      "layout": "vertical_spine",
+      "name": "Вертикальная ось",
+      "note": "spotify повёрнуто на 90° · readme и dashboard рядом с ним",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#24324E",
+          "dashboard": "#4363AD"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#E4ECFF",
+          "dashboard": "#A6BFFF"
+        }
+      }
+    },
+    {
+      "id": "14",
+      "layout": "fraction",
+      "name": "Типографическая дробь",
+      "note": "spotify над readme · черта дроби · dashboard справа",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#4C51AD",
+          "dashboard": "#38302A",
+          "rule": "#AA6516"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#B5B8FF",
+          "dashboard": "#F5EBDD",
+          "rule": "#EDBD68"
+        }
+      }
+    },
+    {
+      "id": "15",
+      "layout": "word_modules",
+      "name": "Словесные модули",
+      "note": "Три столбца: spot/ify · read/me · dash/board",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#AF4B29",
+          "dashboard": "#373C75"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#FFB394",
+          "dashboard": "#C1C6FF"
+        }
+      }
+    },
+    {
+      "id": "16",
+      "layout": "orbital",
+      "name": "Дуги вокруг readme",
+      "note": "spotify по верхней дуге · dashboard по нижней",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#473856",
+          "dashboard": "#A94522"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#E5CFF8",
+          "dashboard": "#FFB57F"
+        }
+      }
+    },
+    {
+      "id": "17",
+      "layout": "initials",
+      "name": "Три инициала",
+      "note": "Крупные S / R / D · продолжения слов малым кеглем",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#B13E56",
+          "dashboard": "#725A18",
+          "detail": "#38404D"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#FFA0B0",
+          "dashboard": "#EBD184",
+          "detail": "#D6DDE9"
+        }
+      }
+    },
+    {
+      "id": "18",
+      "layout": "inside_dashboard",
+      "name": "Внутри dashboard",
+      "note": "dash и board обрамляют spotify / readme в центре",
+      "colors": {
+        "light": {
+          "spotify": "#1ED760",
+          "readme": "#A85216",
+          "dashboard": "#3D416F"
+        },
+        "dark": {
+          "spotify": "#1ED760",
+          "readme": "#FFC18B",
+          "dashboard": "#CFD3FF"
+        }
+      }
+    }
+  ]
+}
