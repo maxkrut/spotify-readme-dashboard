@@ -27,7 +27,7 @@ Follow the [`step-by-step setup guide`](SETUP.md) for prerequisites, commands an
 
 The dashboard below shows this repository owner's library. In a new copy, the first successful update replaces the inherited example with your own music.
 
-_Last updated 2026-10-31 11:01 UTC._
+_Last updated 2026-11-02 13:35 UTC._
 
 No audio files are included: this repository publishes generated summaries from a private CSV archive.
 
@@ -54,9 +54,9 @@ Albums ranked by the number of distinct liked tracks. At least five liked tracks
 
 ## This Week in the Library
 
-Changes between observations on 2026-10-19 and 2026-10-31. These are library changes, not listening counts.
+Changes between observations on 2026-10-26 and 2026-11-02. These are library changes, not listening counts.
 
-**11** new tracks · **11** new liked tracks · **5** new artists · **8** new albums · **0** new countries
+**6** new tracks · **6** new liked tracks · **4** new artists · **6** new albums · **0** new countries
 
 Removed from the library: **0** tracks.
 
@@ -243,10 +243,10 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 
 | Source / coverage | Status |
 | --- | --- |
-| Library export | 2026-10-31 11:01 UTC · current |
-| Spotify top artists | 2026-10-31 11:01 UTC · current |
-| Recently played snapshot | 2026-10-31 11:01 UTC · current |
-| Listening sample | 2026-10-27 13:14 – 2026-10-31 09:47 UTC; 50 plays |
+| Library export | 2026-11-02 13:35 UTC · current |
+| Spotify top artists | 2026-11-02 13:35 UTC · current |
+| Recently played snapshot | 2026-11-02 13:35 UTC · current |
+| Listening sample | 2026-10-30 10:42 – 2026-11-02 12:00 UTC; 50 plays |
 | Tracks with a usable genre | 2,045 / 2,057 (99.4%) |
 | Tracks awaiting genre confirmation | 3 |
 | Tracks with a known artist country | 1,987 / 2,057 (96.6%) |
