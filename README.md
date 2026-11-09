@@ -27,7 +27,7 @@ Follow the [`step-by-step setup guide`](SETUP.md) for prerequisites, commands an
 
 The dashboard below shows this repository owner's library. In a new copy, the first successful update replaces the inherited example with your own music.
 
-_Last updated 2026-11-02 13:35 UTC._
+_Last updated 2026-11-09 13:58 UTC._
 
 No audio files are included: this repository publishes generated summaries from a private CSV archive.
 
@@ -54,13 +54,13 @@ Albums ranked by the number of distinct liked tracks. At least five liked tracks
 
 ## This Week in the Library
 
-Changes between observations on 2026-10-26 and 2026-11-02. These are library changes, not listening counts.
+Changes between observations on 2026-11-02 and 2026-11-09. These are library changes, not listening counts.
 
-**6** new tracks · **6** new liked tracks · **4** new artists · **6** new albums · **0** new countries
+**1** new tracks · **1** new liked tracks · **0** new artists · **1** new albums · **0** new countries
 
 Removed from the library: **0** tracks.
 
-Genre share changes: Rock / Psych / Prog: -0.7 pp; Metal: +0.7 pp; Electronic / Ambient: -0.2 pp. Metadata corrections can also change these shares.
+Genre share changes: Metal: +0.7 pp; Rock / Psych / Prog: -0.6 pp; Electronic / Ambient: -0.2 pp. Metadata corrections can also change these shares.
 
 ## Latest Liked Tracks
 
@@ -69,6 +69,9 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 <div align="center">
 <table width="100%" cellpadding="8" cellspacing="0">
 <tbody>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1wGzfusEczduZyOPCmHlCm">My Heart Belongs to the North</a></strong> — Erang<br/><small>Within the Land of My Imagination I Am the Only God · 2014 · dungeon synth · Liked 2026-11-08</small></td>
+</tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1FltTqmmqzR9e53xDkNGJ4">Mountain</a></strong> — Enslaved<br/><small>Mið · 2026 · black metal · Liked 2026-10-30</small></td>
 </tr>
@@ -95,9 +98,6 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 </tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6cG2jyQPzCZFt1a1IWnfuN">The Longing</a></strong> — Windir<br/><small>Arntor · 1999 · black metal · Liked 2026-10-22</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/5ZOt8KwM6BFtfoFqntMHFA">Disintegrate</a></strong> — Extol<br/><small>Disintegrate · 2026 · alternative rock · Liked 2026-10-22</small></td>
 </tr>
 </tbody>
 </table>
@@ -156,7 +156,7 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 </details>
 
 <details>
-<summary><strong>Electronic / Ambient</strong> · 35 genres · 201 track assignments</summary>
+<summary><strong>Electronic / Ambient</strong> · 35 genres · 202 track assignments</summary>
 
 ![Electronic / Ambient genre atlas](assets/atlas/electronic-ambient.svg)
 
@@ -243,13 +243,13 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 
 | Source / coverage | Status |
 | --- | --- |
-| Library export | 2026-11-02 13:35 UTC · current |
-| Spotify top artists | 2026-11-02 13:35 UTC · current |
-| Recently played snapshot | 2026-11-02 13:35 UTC · current |
-| Listening sample | 2026-10-30 10:42 – 2026-11-02 12:00 UTC; 50 plays |
-| Tracks with a usable genre | 2,045 / 2,057 (99.4%) |
+| Library export | 2026-11-09 13:58 UTC · current |
+| Spotify top artists | 2026-11-09 13:58 UTC · current |
+| Recently played snapshot | 2026-11-09 13:58 UTC · current |
+| Listening sample | 2026-11-04 13:33 – 2026-11-09 13:56 UTC; 50 plays |
+| Tracks with a usable genre | 2,046 / 2,058 (99.4%) |
 | Tracks awaiting genre confirmation | 3 |
-| Tracks with a known artist country | 1,987 / 2,057 (96.6%) |
+| Tracks with a known artist country | 1,988 / 2,058 (96.6%) |
 
 Coverage measures completeness, not verification of every genre or country. Build time above is separate from source freshness.
 

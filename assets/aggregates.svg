@@ -40,10 +40,10 @@
 <text x="32.0" y="324.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#557e64" text-anchor="start">08</text>
 <text x="66.0" y="324.0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#102027" text-anchor="start">Russia</text>
 <text x="380.0" y="324.0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#557e64" text-anchor="end">55</text>
-<rect x="66.0" y="334.0" width="19.8" height="16" fill="#557e64" fill-opacity="0.18"/>
+<rect x="66.0" y="334.0" width="20.2" height="16" fill="#557e64" fill-opacity="0.18"/>
 <text x="32.0" y="348.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#557e64" text-anchor="start">09</text>
 <text x="66.0" y="348.0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#102027" text-anchor="start">France</text>
-<text x="380.0" y="348.0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#557e64" text-anchor="end">48</text>
+<text x="380.0" y="348.0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" fill="#557e64" text-anchor="end">49</text>
 <rect x="66.0" y="358.0" width="16.9" height="16" fill="#557e64" fill-opacity="0.18"/>
 <text x="32.0" y="372.0" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" fill="#557e64" text-anchor="start">10</text>
 <text x="66.0" y="372.0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" fill="#102027" text-anchor="start">Denmark</text>
