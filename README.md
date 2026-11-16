@@ -27,7 +27,7 @@ Follow the [`step-by-step setup guide`](SETUP.md) for prerequisites, commands an
 
 The dashboard below shows this repository owner's library. In a new copy, the first successful update replaces the inherited example with your own music.
 
-_Last updated 2026-11-09 13:58 UTC._
+_Last updated 2026-11-16 13:44 UTC._
 
 No audio files are included: this repository publishes generated summaries from a private CSV archive.
 
@@ -54,13 +54,13 @@ Albums ranked by the number of distinct liked tracks. At least five liked tracks
 
 ## This Week in the Library
 
-Changes between observations on 2026-11-02 and 2026-11-09. These are library changes, not listening counts.
+Changes between observations on 2026-11-02 and 2026-11-16. These are library changes, not listening counts.
 
-**1** new tracks · **1** new liked tracks · **0** new artists · **1** new albums · **0** new countries
+**6** new tracks · **6** new liked tracks · **3** new artists · **6** new albums · **0** new countries
 
 Removed from the library: **0** tracks.
 
-Genre share changes: Metal: +0.7 pp; Rock / Psych / Prog: -0.6 pp; Electronic / Ambient: -0.2 pp. Metadata corrections can also change these shares.
+Genre share changes: Rock / Psych / Prog: -0.7 pp; Metal: +0.7 pp; Electronic / Ambient: -0.2 pp. Metadata corrections can also change these shares.
 
 ## Latest Liked Tracks
 
@@ -69,6 +69,21 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 <div align="center">
 <table width="100%" cellpadding="8" cellspacing="0">
 <tbody>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/2YDXUVUBVi4p4ipcuYI1H3">Knights of Tiamat</a></strong> — Wolves In The Throne Room<br/><small>Estuary · 2026 · atmospheric black metal · Liked 2026-11-10</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/7bcQyoYSFpm63nPs1a9EWZ">Ode to a Wayside Flower</a></strong> — Elyvilon<br/><small>Tales from the Path, Vol. II · 2026 · Liked 2026-11-10</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6i6lj9qhRtJ51a8QH02Pxm">Dead Eternity</a></strong> — In Flames<br/><small>Subterranean · 1995 · melodic death metal · Liked 2026-11-10</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/7dy0R8QMstKWrzSQy3XdEE">That Fair and Warlike Form</a></strong> — Khan<br/><small>That Fair and Warlike Form // Return to Dust · 2025 · Liked 2026-11-10</small></td>
+</tr>
+<tr>
+<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/75FfRNqsEq404nl9R9RBpG">Sense of Calm</a></strong> — Distant Dream<br/><small>Point of View · 2020 · Liked 2026-11-09</small></td>
+</tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1wGzfusEczduZyOPCmHlCm">My Heart Belongs to the North</a></strong> — Erang<br/><small>Within the Land of My Imagination I Am the Only God · 2014 · dungeon synth · Liked 2026-11-08</small></td>
 </tr>
@@ -83,21 +98,6 @@ The ten most recent known like dates. Legacy tracks with mixed playlist/like dat
 </tr>
 <tr>
 <td align="left" valign="top"><strong><a href="https://open.spotify.com/track/0X2UI4M1ewu5lvMC0WJjCd">Medieval Noir</a></strong> — Erang<br/><small>MEDIEVAL NOIR · 2026 · dungeon synth · Liked 2026-10-30</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6e6RTpN1JC79UsQfBjSdYy">Alberto Balsam 7</a></strong> — Magic Man<br/><small>Alberto Balsam 7 · 2026 · ambient · Liked 2026-10-30</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/39C0Sv091suqabI3GEpKoP">Voice of the Mountain</a></strong> — Jason Shook; Guild of Lore<br/><small>Winterstead · 2018 · Liked 2026-10-27</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/72m4wHmgRYoxvg7GqAlFQh">Any Way The Wind Blows - Original Mothers Rehearsal 1966</a></strong> — The Mothers Of Invention; Frank Zappa<br/><small>Freak Out! (60th Anniversary) · 2026 · art rock · Liked 2026-10-23</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/1TpBudfk0Tt4eNP8p44KUU">Legend of a guy named Xiao Ling</a></strong> — Magic Man<br/><small>Divine music from Alchemist&#x27;s ancient computer · 2026 · ambient · Liked 2026-10-23</small></td>
-</tr>
-<tr>
-<td align="left" valign="top"><strong><a href="https://open.spotify.com/track/6cG2jyQPzCZFt1a1IWnfuN">The Longing</a></strong> — Windir<br/><small>Arntor · 1999 · black metal · Liked 2026-10-22</small></td>
 </tr>
 </tbody>
 </table>
@@ -139,10 +139,10 @@ Artist origins across release decades, using MusicBrainz, Wikidata and curated o
 
 Each lead artist appears under one dominant genre: the most frequent primary genre among their recordings in this library. Source-linked artist profiles resolve ties and documented career-wide exceptions. Track totals follow the lead artist's category; release-specific genres remain in the underlying data.
 
-12 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
+15 tracks have no usable genre and are excluded from the atlas. They remain in library totals as Unclassified.
 
 <details>
-<summary><strong>Metal</strong> · 55 genres · 959 track assignments</summary>
+<summary><strong>Metal</strong> · 55 genres · 961 track assignments</summary>
 
 ![Metal genre atlas](assets/atlas/metal.svg)
 
@@ -243,13 +243,13 @@ Each lead artist appears under one dominant genre: the most frequent primary gen
 
 | Source / coverage | Status |
 | --- | --- |
-| Library export | 2026-11-09 13:58 UTC · current |
-| Spotify top artists | 2026-11-09 13:58 UTC · current |
-| Recently played snapshot | 2026-11-09 13:58 UTC · current |
-| Listening sample | 2026-11-04 13:33 – 2026-11-09 13:56 UTC; 50 plays |
-| Tracks with a usable genre | 2,046 / 2,058 (99.4%) |
+| Library export | 2026-11-16 13:43 UTC · current |
+| Spotify top artists | 2026-11-16 13:43 UTC · current |
+| Recently played snapshot | 2026-11-16 13:43 UTC · current |
+| Listening sample | 2026-11-12 13:31 – 2026-11-16 12:18 UTC; 50 plays |
+| Tracks with a usable genre | 2,048 / 2,063 (99.3%) |
 | Tracks awaiting genre confirmation | 3 |
-| Tracks with a known artist country | 1,988 / 2,058 (96.6%) |
+| Tracks with a known artist country | 1,991 / 2,063 (96.5%) |
 
 Coverage measures completeness, not verification of every genre or country. Build time above is separate from source freshness.
 
